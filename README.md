@@ -3,11 +3,11 @@
 ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-This GitHub repository contains a case study that simulates a business scenario focused on adopting and selling a new product from a different supplier. The problem at hand is addressed through the utilization and showcasing of decision tree algorithms, highlighting their usefulness in this context.
+This GitHub repository contains a case study that simulates a business scenario focused on adopting and selling a new product (in this particular case, a coffee type) from a different supplier. The problem at hand is addressed through the utilization of decision tree algorithms, highlighting their usefulness in this context.
 
 The case study is implemented in Python, utilizing Jupyter notebooks for the analysis and demonstration of the decision tree algorithms. The sklearn library is used for building decision trees, with an additional example showcasing the use of random forests at the end of the study.
 
-The contents of this repository provide a comprehensive overview of the business scenario, the data used, the decision tree algorithms employed, and the results obtained. The Jupyter notebooks serve as a valuable resource for those interested in understanding and applying decision tree algorithms for business decision-making.
+The contents of this repository provide a comprehensive overview of the business scenario, the data used, the decision tree algorithms employed with their graphical representations, and the results obtained. The Jupyter notebook serve as a valuable resource for those interested in understanding and applying decision tree algorithms for business decision-making.
 
 Feel free to explore the notebooks and code in this repository to gain insights into how decision tree algorithms can be utilized for solving real-world business problems. Your feedback and contributions are always welcome!
 
