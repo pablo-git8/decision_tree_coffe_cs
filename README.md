@@ -1,5 +1,8 @@
 # Business Scenario Case Study - Decision Tree
 
+![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 This GitHub repository contains a case study that simulates a business scenario focused on adopting and selling a new product from a different supplier. The problem at hand is addressed through the utilization and showcasing of decision tree algorithms, highlighting their usefulness in this context.
 
 The case study is implemented in Python, utilizing Jupyter notebooks for the analysis and demonstration of the decision tree algorithms. The sklearn library is used for building decision trees, with an additional example showcasing the use of random forests at the end of the study.
@@ -15,17 +18,24 @@ Feel free to explore the notebooks and code in this repository to gain insights 
 
 ## Repository Contents
 
-decision_tree-coffe_specialty_cs.ipynb: The main Jupyter notebook containing the case study, analysis, and demonstration of decision tree algorithms.
-data/: A directory containing the dataset used in the case study.
-README.md: The current file, providing an overview of the repository and its contents.
+* `decision_tree-coffe_specialty_cs.ipynb`: The main Jupyter notebook containing the case study, analysis, and demonstration of decision tree algorithms.
+* `data/`: A directory containing the dataset used in the case study.
+* `static/`: Images and content used in the notebook
+* `gini/entr_#`: Different .dot files for model representation
+* `README.md`: The current file, providing an overview of the repository and its contents.
 
 ## Dependencies
 
 The following Python libraries are required for running the Jupyter notebooks in this repository:
 
-numpy
-pandas
-sklearn
+- [x] numpy
+- [x] pandas
+- [x] scikit-learn
+- [x] graphviz
+- [x] seaborn
+- [x] matplotlib.pyplot
+- [x] io
+- [x] IPython.display
 
 Please ensure that these libraries are installed in your Python environment before running the notebooks.
 
