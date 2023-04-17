@@ -36,5 +36,3 @@ To use this repository, simply clone it to your local machine and open the Jupyt
 ## Contributions
 
 Contributions to this repository are highly encouraged. If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request. Let's collaborate and make this case study even better!
-
-
